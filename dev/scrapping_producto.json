@@ -1,0 +1,23 @@
+[
+    {
+        "ID": "142528885",
+        "TITLE": "Samsung Galaxy A16 Dual Sim 6gb Ram 128gb Negro",
+        "PRICE": 610900.0,
+        "IMAGE_URL": "https://media.falabella.com/falabellaCO/142528885_01/w=800,h=800,fit=pad",
+        "DESCRIPTION": "Teléfono móvil Samsung Galaxy A16 con pantalla Super AMOLED FHD+ de 6,7 pulgadas, 6GB de RAM, 128GB de almacenamiento, procesador MediaTek Helio G99, batería de 5000 mAh con carga rápida, cámara triple de hasta 50 MP y cámara frontal de 13 MP, sistema operativo Android 14, doble SIM, color negro."
+    },
+    {
+        "ID": "140072823",
+        "TITLE": "Celular Xiaomi Redmi Note 14 Pro Plus 5G 512 Gb 12 Ram Negro",
+        "PRICE": 1749900.0,
+        "IMAGE_URL": "https://media.falabella.com/falabellaCO/140072823_01/w=800,h=800,fit=pad",
+        "DESCRIPTION": "Celular Xiaomi Redmi Note 14 Pro Plus 5G con 512 GB de almacenamiento y 12 GB de RAM. Cuenta con pantalla AMOLED de 6.67\", procesador Qualcomm Snapdragon 7s Gen 3, cámara trasera triple de 200 MP + 8 MP + 2 MP, cámara frontal de 20 MP, batería de 5110 mAh con carga rápida de 90 W, sistema operativo Android 14, conectividad 5G, Bluetooth 5.4 y Wi-Fi. Garantía de 6 meses y color negro."
+    },
+    {
+        "ID": "143298879",
+        "TITLE": "SAMSUNG M55 5G 8+256 VERDE",
+        "PRICE": 945900.0,
+        "IMAGE_URL": "https://media.falabella.com/falabellaCO/143298879_01/w=800,h=800,fit=pad",
+        "DESCRIPTION": "Smartphone Samsung M55 5G con 8 GB de RAM y 256 GB de almacenamiento, pantalla AMOLED de 6.7\", batería de 5000 mAh, cámara frontal y posterior de 50 MP, procesador Qualcomm Snapdragon de 7ª generación y sistema operativo Android 14. Color verde, con conectividad 5G y memoria expandible hasta 1TB."
+    }
+]
